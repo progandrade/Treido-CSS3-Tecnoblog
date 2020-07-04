@@ -1,0 +1,68 @@
+#principal {
+    width: 920px;
+    margin: 0 auto;
+}
+
+.rodape {
+    clear: both;
+    text-align: center;
+    padding: 50px;
+}
+
+/*------------------------------------------------------------*/
+
+#container {
+    width: 660px;
+    margin-top: 25px;
+    float: left;
+}
+
+#container h2 {
+    Color: rgb(238, 135, 0);
+    margin-top: 20px;
+}
+
+#container p {
+    font-size: 15px;
+}
+
+#container img {
+    padding-top: 10px;
+}
+
+#container a {
+    font-size: 13px;
+    Color: rgb(238, 135, 0);
+    padding-top: 8px;        
+}
+
+/*------------------------------------------------------------*/
+
+
+/*Conteúdo lateral direita */
+.lateral {
+    width: 240px;
+    margin-top: 10px;
+    float: right;
+}
+
+.lateral h2 {
+    color: rgb(110, 110, 110);
+    background: rgb(219, 219, 219);
+    padding-left: 7px;
+    margin-top: 15px;
+}
+
+.lateral p {
+    font-size: 13px;
+    padding-top: 5px;
+}
+
+.lateral a {
+    font-size: 13px;
+    Color: rgb(238, 135, 0);
+    padding-top: 8px;    
+}
+
+/*------------------------------------------------------------*/
+

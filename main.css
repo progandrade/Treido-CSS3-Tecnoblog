@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+Body {
+    font-family: font-famil, 'Lato', sans-serif;
+    
+}
+
+/*------------------------------------------------------------*/
+
+#cabeçalho {
+    background: rgb(253, 195, 5);
+    width: 100%;
+    height: 150px;
+    text-align: center;
+}
+
+#cabeçalho h1 {
+    font-size: 45px;
+    padding: 20px 0px 5px 0px;
+}
+
+#title1 {
+    color: rgb(68, 66, 66);
+}
+
+#title2 {
+    color: white;
+}
+
+/*------------------------------------------------------------*/
+
+#navbar {
+    padding: 2px 0 25px 0px;
+}
+
+#navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 15px;
+}
+
+#navbar a:hover {
+    color: rgb(253, 195, 5);
+    background: white;
+}
+
+#navbar a:active {
+    color: black;
+}
+
+/*------------------------------------------------------------*/
